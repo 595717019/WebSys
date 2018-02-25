@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/system/admin/head.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/admin/left.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/admin/top.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/tools/eval.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/tools/printPage.jsp=UTF-8
+encoding//resources/ftl/createCode/controllerTemplate.ftl=UTF-8
+encoding//resources/ftl/createCode/docTemplate.ftl=UTF-8
+encoding//resources/ftl/createCode/jsp_edit_Template.ftl=UTF-8
+encoding//resources/ftl/createCode/jsp_list_Template.ftl=UTF-8
+encoding//resources/ftl/createCode/mapperMysqlTemplate.ftl=UTF-8
+encoding//resources/ftl/createCode/mapperOracleTemplate.ftl=UTF-8
+encoding//resources/ftl/createCode/serviceTemplate.ftl=UTF-8
+encoding/<project>=UTF-8
