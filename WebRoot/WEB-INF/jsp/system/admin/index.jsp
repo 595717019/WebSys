@@ -31,10 +31,14 @@
 
 <!-- 即时通讯 -->
 <script type="text/javascript">
-	var wimadress = "${pd.WIMIP}:${pd.WIMPORT}";
-</script>
-<script type="text/javascript">
-	var oladress = "${pd.OLIP}:${pd.OLPORT}";
+	//var address = window.location.href;
+	//var hostport=document.location.host;
+	var loc = document.location.hostname;  
+	
+	//var wimadress = "${pd.WIMIP}:${pd.WIMPORT}";
+	//var oladress = "${pd.OLIP}:${pd.OLPORT}";
+	var wimadress =loc+":${pd.WIMPORT}";
+	var oladress = loc+":${pd.OLPORT}";
 </script>
 <link rel="stylesheet" type="text/css"
 	href="plugins/websocketInstantMsg/ext4/resources/css/ext-all.css">
